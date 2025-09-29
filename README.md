@@ -21,9 +21,9 @@ Atualmente, o site conta com as seguintes páginas:
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído com tecnologias web padrões, focando em um design responsivo e moderno.
-* **HTML5**
-* **CSS3** (com Flexbox e Grid Layout)
-* **Git & GitHub** para versionamento.
+* **HTML**
+* **CSS** 
+* **Git & GitHub**
 
 ## 📁 Estrutura de Pastas
 
